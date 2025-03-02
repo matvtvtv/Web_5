@@ -1,0 +1,37 @@
+/* Общие стили для блоков */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#header {
+    background-color: #ffcc00; /* Желтый */
+    height: 10%;
+    text-align: center;
+    padding: 20px;
+}
+
+#sidebar {
+    background-color: #66ccff; /* Голубой */
+    width: 20%;
+    height: 60%;
+    float: left;
+    text-align: center;
+    padding: 20px;
+}
+
+#content {
+    background-color: #99ff99; /* Зеленый */
+    height: 60%;
+    text-align: center;
+    padding: 20px;
+}
+
+#footer {
+    background-color: #ff6666; /* Красный */
+    height: 13%;
+    text-align: center;
+    padding: 20px;
+    clear: both;
+}

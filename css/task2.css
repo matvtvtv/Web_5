@@ -1,0 +1,24 @@
+#red{
+    position: absolute;
+    width: 250px;
+	height: 250px;
+	background: red;
+}
+
+#blue{
+    position: absolute;
+    width: 250px;
+	height: 250px;
+	background: rgb(0, 30, 255);
+    top: 175px;
+    left: 175px;
+}
+
+#green{
+    position: absolute;
+    width: 250px;
+	height: 250px;
+    top: 75px;
+    left: 75px;
+	background: rgb(0, 255, 21);
+}
